@@ -4,24 +4,34 @@ Redesign of the payroll process for 5 BPO clients with a total of 1,800 agents. 
 # Payroll Process Redesign for 1,800 Agents
 
 **Role:** Functional Business Analyst  
-**Client:** Foundever (BPO with 5 accounts and 1,800 agents)  
+**Client:** BPO with 5 accounts and 1,800 agents  
 **Timeline:** 2022-2025  
 
 ## 1. Business Problem
 Agent attrition had skyrocketed. The main complaint during exit interviews was # Payroll Process Redesign for 1,800 BPO Agents
 
 **Role:** Functional Business Analyst  
-**Client:** Foundever (BPO with 5 accounts and 1,800 agents)  
+**Client:** BPO with 5 accounts and 1,800 agents  
 **Timeline:** 2022-2025  
 
 ## 1. Business Problem
 Agent attrition had skyrocketed. The main complaint during exit interviews was *incorrect pay*. Many agents left right after payday. Operations and Finance were at odds, each defending their own metrics. No one was seeing the full picture.
+### The Chaos Before: Downstream Effects of Payroll Errors
+
+The payroll inaccuracies didn't just frustrate agents — they triggered a **cascade of operational failures**:
+
+- **Overpaid agents** (some logged 24 hours in a single day), leading to client billing disputes and invoice rejections.
+- **Underpaid agents**, who threatened collective lawsuits and mass resignations.
+- **Operations Managers** caught in the middle — defending their teams to Finance while absorbing agent frustration and client complaints.
+
+The result was not just individual churn, but **block resignations** and **legal exposure**. The payroll process had become a single point of failure for the entire operation.
 
 ## 2. Requirements Gathering
 I conducted active listening sessions with Operations, Finance, and WFM directors, as well as floor coaches. I discovered the root cause was not human error, but an integration gap: payroll data was pulled exclusively from Kronos (scheduled hours), completely ignoring the actual hours worked and reported in client CRMs.
 
 ## 3. Proposed Solution (AS-IS / TO-BE)
 - **AS-IS:** Kronos → Payroll (no validation of actual worked hours). Exceptions and adjustments relied on scattered emails and individual goodwill.
+- 
 - **TO-BE:** Client CRMs + Kronos + Coach Validation → Master Hours Report → OM Validation → Payroll.  
 [View AS-IS / TO-BE Diagram]
 
@@ -41,7 +51,7 @@ The most critical business rule: **"If an agent logs hours in the client CRM, th
 | KPI | Before | After |
 | :--- | :--- | :--- |
 | Payroll error complaints | 120/month (avg) | 6/month (95% reduction) |
-| Attrition due to payroll dissatisfaction | 15% monthly | <2% monthly |
+| Attrition due to payroll dissatisfaction | 20% monthly | <2% monthly |
 | Payroll generation time | 5 business days | <1 day (80% reduction) |
 
 ## 7. Technologies
