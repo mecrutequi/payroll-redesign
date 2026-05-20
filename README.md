@@ -46,3 +46,33 @@ The most critical business rule: **"If an agent logs hours in the client CRM, th
 
 ## 7. Technologies
 JIRA, Confluence, SQL Server, Excel, Client CRM APIs.
+
+## 8. Financial Impact & Business Case
+
+### The Hidden Cost of Attrition
+
+The contact center industry faces a quiet drain on profitability that few executives quantify correctly. According to McKinsey research, each new agent hire costs the contact center an estimated $10,000 to $20,000 USD in training, direct recruiting costs, and lost productivity during ramp-up (Gretz & Jacobson, 2018). Despite this enormous price tag, companies rarely treat attrition as the financial emergency it truly is. Why? Because these costs are buried across departmental budgets — recruiting, training, operations — rather than appearing as a single, painful line item. This allows high turnover to masquerade as an operational inevitability rather than what it really is: a preventable multimillion-dollar leak.
+
+### The True Cost of "Accepting" Turnover
+
+Using a conservative replacement cost of $15,000 USD (~$270,000 MXN) per agent, applied to a workforce of 1,800 full-time agents:
+
+| Metric | Before (20% Monthly Attrition) | After (<2% Monthly Attrition) |
+| :--- | :--- | :--- |
+| Agents leaving monthly | 360 | ≤36 |
+| Monthly replacement cost | ~$97.2M MXN (~$5.4M USD) | ≤$9.7M MXN (~$540K USD) |
+| Annualized replacement cost | ~$1,166M MXN (~$64.8M USD) | ≤$117M MXN (~$6.5M USD) |
+
+### The Result: Redrawing the Bottom Line
+
+By redesigning the payroll validation process and eliminating the root cause of pay-related complaints, the operation saved an estimated $87.5M MXN per month (~$4.9M USD) in avoided replacement costs alone — solely from the agents who stopped leaving due to payroll errors.
+
+Annualized, this single process improvement prevented over $1,049M MXN (~$58.3M USD) in turnover-related losses.
+
+### Why This Matters for a Business Analyst
+
+This project didn't just fix a technical error in a payroll report. It fundamentally changed the financial equation of the operation. When payroll errors stopped, agents stayed. When agents stayed, the hidden tax of constant turnover — the recruiting, the training, the lost productivity — simply vanished. And that is the real job of a Functional Business Analyst: not just documenting requirements, but redesigning processes so that the business stops bleeding money it has learned to ignore.
+
+### References
+
+Gretz, W., & Jacobson, R. (2018). Boosting contact-center performance through employee engagement. McKinsey & Company.
