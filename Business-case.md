@@ -1,7 +1,5 @@
-# Payroll-redesign
-Redesign of the payroll process for 5 BPO clients with a total of 1,800 agents. Functional Business Analysis case study with impact metrics.
-
 # Payroll Process Redesign for 1,800 Agents
+Redesign of the payroll process for 5 BPO clients with a total of 1,800 agents. Functional Business Analysis case study with impact metrics.
 
 **Role:** Functional Business Analyst  
 **Client:** BPO with 5 accounts and 1,800 agents  
