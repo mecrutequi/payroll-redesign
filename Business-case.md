@@ -8,13 +8,6 @@ Redesign of the payroll process for 5 BPO clients with a total of 1,800 agents. 
 **Timeline:** 2022-2025  
 
 ## 1. Business Problem
-Agent attrition had skyrocketed. The main complaint during exit interviews was # Payroll Process Redesign for 1,800 BPO Agents
-
-**Role:** Functional Business Analyst  
-**Client:** BPO with 5 accounts and 1,800 agents  
-**Timeline:** 2022-2025  
-
-## 1. Business Problem
 Agent attrition had skyrocketed. The main complaint during exit interviews was *incorrect pay*. Many agents left right after payday. Operations and Finance were at odds, each defending their own metrics. No one was seeing the full picture.
 ### The Chaos Before: Downstream Effects of Payroll Errors
 
