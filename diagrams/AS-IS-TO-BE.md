@@ -53,6 +53,19 @@ The proposed future state eliminates email-based communication and centralizes a
 - ✅ Clear decision logic with XOR gateway.
 
 ---
+### Pain Points vs. Solutions
+
+| # | AS-IS Pain Point | TO-BE Solution |
+|---|------------------|----------------|
+| 1 | Information scattered across personal email inboxes – no central repository | Centralized **Worked Hours Report** in WFM (single Data Store) |
+| 2 | No integration between Kronos and email – manual data transfer required | Direct data associations between Kronos, CRM, Forms, and the consolidated report |
+| 3 | WFM operator must manually search emails for adjustments – no automated trigger | Automated flow from *Send the adjustments to WFM* → *Receive the adjustments from Ops* → *Update the report* |
+| 4 | No standardized format for adjustment emails – risk of misinterpretation and errors | **Forms** as a structured system for recording adjustments (no loose emails) |
+| 5 | No traceability – who approved or adjusted what, and when, is not recorded | Forms logs every adjustment. **Worked Hours Report** consolidates with full traceability |
+| 6 | Report reaches Finance as an email attachment – no shared system or audit trail | *Send the final report* → direct sequence flow to Finance (no email) |
+| 7 | Manual corrections without a system | *Adjust hours using Forms* → structured task embedded in the process |
+| 8 | Validation without clear criteria | XOR gateway *Kronos = CRM?* → automated decision |
+
 
 ### Summary of Improvements
 
@@ -68,17 +81,6 @@ The proposed future state eliminates email-based communication and centralizes a
 
 
 The TO-BE eliminates emails, centralizes all information in the **Worked Hours Report**, and automates the flow of adjustments and validations.
-
-| # | AS-IS Pain Point | TO-BE Solution |
-|---|------------------|----------------|
-| 1 | Information scattered across personal email inboxes – no central repository | Centralized **Worked Hours Report** in WFM (single Data Store) |
-| 2 | No integration between Kronos and email – manual data transfer required | Direct data associations between Kronos, CRM, Forms, and the consolidated report |
-| 3 | WFM operator must manually search emails for adjustments – no automated trigger | Automated flow from *Send the adjustments to WFM* → *Receive the adjustments from Ops* → *Update the report* |
-| 4 | No standardized format for adjustment emails – risk of misinterpretation and errors | **Forms** as a structured system for recording adjustments (no loose emails) |
-| 5 | No traceability – who approved or adjusted what, and when, is not recorded | Forms logs every adjustment. **Worked Hours Report** consolidates with full traceability |
-| 6 | Report reaches Finance as an email attachment – no shared system or audit trail | *Send the final report* → direct sequence flow to Finance (no email) |
-| 7 | Manual corrections without a system | *Adjust hours using Forms* → structured task embedded in the process |
-| 8 | Validation without clear criteria | XOR gateway *Kronos = CRM?* → automated decision |
 
 # Diagrams
 AS-IS and TO-BE process diagrams for the payroll redesign project.
