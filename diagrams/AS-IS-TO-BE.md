@@ -12,9 +12,3 @@ Current state process for payroll integration between Finance, WFM, and Operatio
 - No standardized format for adjustment emails – risk of misinterpretation and errors.
 - No traceability – who approved or adjusted what, and when, is not recorded.
 - Report reaches Finance as an email attachment – no shared system or audit trail.
-
-## Business case
-Detailed business case available in the repository.
-
-## Author
-[Your name / role]
