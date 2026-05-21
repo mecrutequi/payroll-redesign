@@ -67,7 +67,6 @@ The proposed future state eliminates email-based communication and centralizes a
 | Validation | Human judgment | XOR gateway decision |
 > The TO-BE eliminates emails, centralizes all information in the **Worked Hours Report**, and automates the flow of adjustments and validations.
 >
->
 > | # | AS-IS Pain Point | TO-BE Solution |
 |---|------------------|----------------|
 | 1 | Information scattered across personal email inboxes – no central repository | Centralized **Worked Hours Report** in WFM (single Data Store) |
