@@ -31,7 +31,7 @@ I conducted active listening sessions with Operations, Finance, and WFM director
 
 ## 3. Proposed Solution (AS-IS / TO-BE)
 - **AS-IS:** Kronos → Payroll (no validation of actual worked hours). Exceptions and adjustments relied on scattered emails and individual goodwill.
-- 
+  
 - **TO-BE:** Client CRMs + Kronos + Coach Validation → Master Hours Report → OM Validation → Payroll.  
 [View AS-IS / TO-BE Diagram]
 
