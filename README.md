@@ -21,7 +21,7 @@ Agents were leaving in droves due to incorrect pay. The root cause was not human
 |---|---|
 | [`/payroll-redesign/Business-case.md`](payroll-redesign/Business-case.md) | Full business case (9 sections: problem, requirements, solution, KPIs, financial impact, etc.) |
 | [`/payroll-redesign/UAT-payroll.md`](payroll-redesign/UAT-payroll.md) | UAT script with 5 test cases (happy path + edge cases) |
-| [`[/payroll-redesign/diagrams](https://github.com/mecrutequi/payroll-redesign/tree/main/diagrams)`](payroll-redesign/diagrams/) | AS-IS and TO-BE process diagrams (PNG) + detailed process description (MD) |
+| [`Diagrams`]([payroll-redesign/diagrams/](https://github.com/mecrutequi/payroll-redesign/tree/main/diagrams)) | AS-IS and TO-BE process diagrams (PNG) + detailed process description (MD) |
 
 ---
 
