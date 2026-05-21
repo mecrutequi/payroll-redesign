@@ -65,6 +65,8 @@ The proposed future state eliminates email-based communication and centralizes a
 | Traceability | None | Full (Forms + Report) |
 | Report delivery | Email attachment | Direct sequence flow |
 | Validation | Human judgment | XOR gateway decision |
+
+
 > The TO-BE eliminates emails, centralizes all information in the **Worked Hours Report**, and automates the flow of adjustments and validations.
 >
 > | # | AS-IS Pain Point | TO-BE Solution |
