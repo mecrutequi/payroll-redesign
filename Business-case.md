@@ -24,7 +24,7 @@ I conducted active listening sessions with Operations, Finance, and WFM director
 - **AS-IS:** Kronos → Payroll (no validation of actual worked hours). Exceptions and adjustments relied on scattered emails and individual goodwill.
   
 - **TO-BE:** Client CRMs + Kronos + Coach Validation → Master Hours Report → OM Validation → Payroll.  
-[View AS-IS / TO-BE Diagram]
+[View [`AS-IS`](https://github.com/mecrutequi/payroll-redesign/blob/main/diagrams/As%20Is%20Stakeholders%20wt.png) / [`TO-BE`](https://github.com/mecrutequi/payroll-redesign/blob/main/diagrams/To%20Be%20Stakeholders.png) Diagram]
 
 ## 4. Key Artifacts
 - **Backlog & Tracking:** JIRA and Confluence.
