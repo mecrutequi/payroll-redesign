@@ -47,4 +47,4 @@
 |:---|:---|:---|:---|
 | 5 | 5 | 0 | 0 |
 
-All defects were documented in JIRA with screenshots and followed up until closure.
+*All defects were documented in JIRA with screenshots and followed up until closure.
